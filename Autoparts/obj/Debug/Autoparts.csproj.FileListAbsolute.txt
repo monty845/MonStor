@@ -9,3 +9,14 @@ C:\Users\Monty\Documents\Autoparts\Autoparts\obj\Debug\Autoparts.pdb
 C:\Users\Monty\Documents\Autoparts\Autoparts\obj\Debug\Autoparts.PartEditor.resources
 C:\Users\Monty\Documents\Autoparts\Autoparts\obj\Debug\Autoparts.Menu.resources
 C:\Users\Monty\Documents\Autoparts\Autoparts\obj\Debug\Autoparts.PartSearch.resources
+C:\Users\Monty\Documents\CS455\Autoparts\Autoparts\bin\Debug\Autoparts.exe.config
+C:\Users\Monty\Documents\CS455\Autoparts\Autoparts\obj\Debug\Autoparts.exe
+C:\Users\Monty\Documents\CS455\Autoparts\Autoparts\obj\Debug\Autoparts.pdb
+C:\Users\Monty\Documents\CS455\Autoparts\Autoparts\bin\Debug\Autoparts.exe
+C:\Users\Monty\Documents\CS455\Autoparts\Autoparts\bin\Debug\Autoparts.pdb
+C:\Users\Monty\Documents\CS455\Autoparts\Autoparts\obj\Debug\Autoparts.csprojResolveAssemblyReference.cache
+C:\Users\Monty\Documents\CS455\Autoparts\Autoparts\obj\Debug\Autoparts.PartEditor.resources
+C:\Users\Monty\Documents\CS455\Autoparts\Autoparts\obj\Debug\Autoparts.Menu.resources
+C:\Users\Monty\Documents\CS455\Autoparts\Autoparts\obj\Debug\Autoparts.PartSearch.resources
+C:\Users\Monty\Documents\CS455\Autoparts\Autoparts\obj\Debug\Autoparts.Properties.Resources.resources
+C:\Users\Monty\Documents\CS455\Autoparts\Autoparts\obj\Debug\Autoparts.csproj.GenerateResource.Cache

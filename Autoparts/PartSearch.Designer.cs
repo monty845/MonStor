@@ -37,6 +37,7 @@
             this.btnEdit = new System.Windows.Forms.Button();
             this.lstResult = new System.Windows.Forms.ListBox();
             this.btnClose = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -160,11 +161,22 @@
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(279, 37);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(137, 68);
+            this.label5.TabIndex = 22;
+            this.label5.Text = "Work In Progress:\r\nThis area will allow \r\nsearching based on \r\nselected tags";
+            this.label5.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
             // PartSearch
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(486, 367);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.lstResult);
             this.Controls.Add(this.btnEdit);
@@ -202,5 +214,6 @@
         private System.Windows.Forms.Button btnEdit;
         private System.Windows.Forms.ListBox lstResult;
         private System.Windows.Forms.Button btnClose;
+        private System.Windows.Forms.Label label5;
     }
 }
